@@ -11,7 +11,8 @@
     "02-crypto-module": "tsx watch src/02-crypto-module.ts",
     "03-os-module": "tsx watch src/03-os-module.ts",
     "04-path-module": "tsx watch src/04-path-module.ts",
-    "05-timer-module": "tsx watch src/05-timer-module.ts"
+    "05-timer-module": "tsx watch src/05-timer-module.ts",
+    "06"  : "tsx watch src/06-callback-promise.ts"
   },
   "keywords": [],
   "author": "",
