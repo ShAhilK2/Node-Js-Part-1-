@@ -1,0 +1,2 @@
+created using sync fs method
+Appended content using sync fs method

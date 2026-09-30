@@ -1,0 +1,2 @@
+created using callback fs method
+Appended content using callback fs method
