@@ -16,12 +16,13 @@
     "07" : "tsx watch src/07-fs-module.ts",
     "08" : "tsx watch src/08-buffers.ts",
     "09" : "tsx watch src/09-url-module.ts",
-    "10" : "tsx watch src/10-event-emitter.ts"
+    "10" : "tsx watch src/10-event-emitter.ts",
+    "11" : "tsx watch src/11-streams.ts"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "devDependencies": {
     "@types/node": "^26.6.3",
     "tsx": "^4.23.15",
