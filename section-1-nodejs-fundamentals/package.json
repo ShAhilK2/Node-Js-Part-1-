@@ -9,7 +9,8 @@
     "dev": "tsx watch src/index.ts",
     "01-process-object": "tsx watch src/01-process-object.ts",
     "02-crypto-module": "tsx watch src/02-crypto-module.ts",
-    "03-os-module": "tsx watch src/03-os-module.ts"
+    "03-os-module": "tsx watch src/03-os-module.ts",
+    "04-path-module": "tsx watch src/04-path-module.ts"
   },
   "keywords": [],
   "author": "",
