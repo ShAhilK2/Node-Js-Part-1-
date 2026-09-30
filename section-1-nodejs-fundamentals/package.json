@@ -15,7 +15,8 @@
     "06"  : "tsx watch src/06-callback-promise.ts",
     "07" : "tsx watch src/07-fs-module.ts",
     "08" : "tsx watch src/08-buffers.ts",
-    "09" : "tsx watch src/09-url-module.ts"
+    "09" : "tsx watch src/09-url-module.ts",
+    "10" : "tsx watch src/10-event-emitter.ts"
   },
   "keywords": [],
   "author": "",
