@@ -13,7 +13,8 @@
     "04-path-module": "tsx watch src/04-path-module.ts",
     "05-timer-module": "tsx watch src/05-timer-module.ts",
     "06"  : "tsx watch src/06-callback-promise.ts",
-    "07" : "tsx watch src/07-fs-module.ts"
+    "07" : "tsx watch src/07-fs-module.ts",
+    "08" : "tsx watch src/08-buffers.ts"
   },
   "keywords": [],
   "author": "",
