@@ -1,0 +1,26 @@
+{
+  "name": "section-2-node-http",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "01" : "tsx watch src/01-basic-http-server.ts",
+    "02" : "tsx watch src/02-routing.ts",
+    "03" : "tsx watch src/03-json-response.ts",
+    "04" : "tsx watch src/04-external-api-call.ts"
+
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "^26.6.3",
+    "tsx": "^4.23.15",
+    "typescipt": "^1.0.0"
+  },
+  "dependencies": {
+    "typescript": "^7.0.2"
+  }
+}
